@@ -1,5 +1,8 @@
 # Go API
 
+## Use HTML to visualise
+![plot](./screen_appli/HTML.png)
+
 ## Get album form ID
 ![plot](./screen_appli/API_get_Id.png)
 
